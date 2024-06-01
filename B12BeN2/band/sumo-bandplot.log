@@ -1,0 +1,23 @@
+/global/homes/y/yagmurco/.local/perlmutter/3.9-anaconda-2021.11/bin/sumo-bandplot --style custom.mplstyle
+Label positions:
+	0.0000: $\Gamma$
+	0.8784: C$\mid$$C_2$
+	1.1518: $Y_2$
+	1.9865: $\Gamma$
+	2.7432: $M_2$
+	3.2902: D$\mid$$D_2$
+	3.8950: A
+	4.6063: $\Gamma$$\mid$$L_2$
+	5.4410: $\Gamma$
+	6.1522: $V_2$
+findfont: Font family ['cursive'] not found. Falling back to DejaVu Sans.
+findfont: Generic family 'cursive' not found because none of the following families were found: Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, Comic Neue, Comic Sans MS, cursive
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral
+Substituting symbol \mid from STIXGeneral

@@ -1,0 +1,33 @@
+SYSTEM=Be4P3Rb
+
+# General settings:
+ENCUT  = 400
+PREC   = Accurate
+ISTART = 0
+ICHARG = 2
+LCHARG = .FALSE.
+LWAVE  = .FALSE.
+
+# Parallel
+#NPAR = 4
+
+# HSE06
+LHFCALC  = .TRUE. 
+HFSCREEN = 0.2 
+AEXX     = 0.25
+ALGO     = All
+GGA      = PE
+
+# Ionic relaxation:
+ISIF   = 3
+NSW    = 1000
+IBRION = 2
+EDIFFG = -1.0E-2
+
+# Symmetry:
+#ISYM = 0
+
+# SCF:
+EDIFF  = 1E-5
+ISMEAR = 0
+SIGMA  = 0.01
